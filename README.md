@@ -31,6 +31,6 @@
 
 <p align="center">
 <a href="https://www.kuralabs.org/"&gt;&lt;img alt="Website" src="https://img.shields.io/badge/Website-www.kuralabs.org-orange?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/ksmithmcdonald/"&gt;&lt;img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kaia%20Smith McDonald-orange?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/ksmithmcdonald/">img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kaia%20SmithMcDonald-orange?style=flat-square&logo=linkedin"></a>
 <a href="kaiasmcdonald524@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kaiasmcdonald524@gmail.com-orange?style=flat-square&logo=gmail"></a>
 </p>
